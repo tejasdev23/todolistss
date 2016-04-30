@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Assignment for Module #2: Active Record Relationships
 
 The overall goal of this assignment is to assess your ability to implement and use Active Record model relationships. 
@@ -420,3 +421,7 @@ and will perform a test with different query terms.
 ```
 
 #### Last Updated: 2015-10-20
+=======
+# todolistss
+activerecord assignment 4
+>>>>>>> b7ae1999b5cb9bacf2d6a68bfe6e5352125121e8
